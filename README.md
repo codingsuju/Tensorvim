@@ -4,3 +4,9 @@ TensorCode is configuration files for Neovim in order to support the powerful in
 ![image](https://drive.google.com/uc?export=view&id=1YAaOMaOQQsJu0CqdyxQdBw1NEo0TY8F4)
 
 # Installation
+1. Change directory to .config
+`
+Code
+code
+`
+2. Clone this repository

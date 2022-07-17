@@ -5,8 +5,8 @@ TensorCode is configuration files for Neovim in order to support the powerful in
 
 # Installation
 1. Change directory to .config
-`
+```
 Code
-code
-`
+Code
+```
 2. Clone this repository

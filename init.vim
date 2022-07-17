@@ -165,5 +165,5 @@ let g:syntastic_cpp_compiler = 'clang++'
 let g:syntastic_cpp_compiler_options = ' -std=c++17'
 source $HOME/.config/nvim/plug-config/coc.vim
 source $HOME/.config/nvim/plug-config/coc-snippets.vim
-source $HOME/.config/nvim/themes/onedark.vim
+"source $HOME/.config/nvim/themes/onedark.vim
 "source $HOME/.config/nvim/themes/jellybeans.vim

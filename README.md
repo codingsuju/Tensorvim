@@ -7,7 +7,7 @@ TensorCode is configuration files for Neovim in order to support the powerful in
 Prerequisites
 1. Neovim
 2. vim-plug installed
-Optional
+<h4>Optional </h4>
 1. clangd
 2. Kotlin LSP
 3. Java LSP

@@ -4,14 +4,14 @@ TensorCode is configuration files for Neovim in order to support the powerful in
 ![image](https://drive.google.com/uc?export=view&id=1YAaOMaOQQsJu0CqdyxQdBw1NEo0TY8F4)
 
 # Setup
-Prerequisites
+**Prerequisites**
 1. Neovim
 2. vim-plug installed
-<h4>Optional </h4>
+**Optional**
 1. clangd
 2. Kotlin LSP
 3. Java LSP
-Steps
+**Steps**
 1. Change directory to .config `cd ~/.config`
 2. Clone this repository `git clone https://github.com/codingsuju/Tensorvim.git nvim`
 3. Open Neovim `nvim`
